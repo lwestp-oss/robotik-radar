@@ -1,0 +1,53 @@
+{
+ "updated": "2026-10-09T20:01:28Z",
+ "newCount": 5,
+ "totalCount": 5,
+ "suggestions": 0,
+ "topics": [
+  {
+   "name": "Wandelbots",
+   "new": 0,
+   "total": 0
+  },
+  {
+   "name": "Realtime robotics",
+   "new": 0,
+   "total": 0
+  },
+  {
+   "name": "Abb",
+   "new": 1,
+   "total": 1
+  },
+  {
+   "name": "Industrieroboter",
+   "new": 3,
+   "total": 3
+  },
+  {
+   "name": "Kuka",
+   "new": 1,
+   "total": 1
+  },
+  {
+   "name": "Metaverse",
+   "new": 0,
+   "total": 0
+  },
+  {
+   "name": "3DX",
+   "new": 0,
+   "total": 0
+  },
+  {
+   "name": "Process Simulate",
+   "new": 0,
+   "total": 0
+  },
+  {
+   "name": "Humanoide Roboter",
+   "new": 0,
+   "total": 0
+  }
+ ]
+}
